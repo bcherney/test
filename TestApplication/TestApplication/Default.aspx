@@ -12,6 +12,10 @@
     </p>
     <p>
         You can also find <a href="http://go.microsoft.com/fwlink/?LinkID=152368&amp;clcid=0x409"
+<<<<<<< HEAD
             title="MSDN ASP.NET Docs">documentation on ASP.NET at MSDN</a>. test this
+=======
+            title="MSDN ASP.NET Docs">documentation on ASP.NET at MSDN</a>. boo.
+>>>>>>> 22c15489f94558dd4483a5fe36c8234f3763c0fb
     </p>
 </asp:Content>
